@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodePriest1
 - 👀 I’m interested in web developement and hacking
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web and app development
 - 📫 How to reach me ghostcoder.0001@gmail.com
 
