@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CodePriest1
-- 👀 I’m interested in web developement and hacking
-- 🌱 I write codes in Python
-- 💞️ I’m looking to collaborate on web
+- 👋 Hi, I’m Prince
+- 👀 I’m interested in web developement and cybersecurity 
+- 🌱 I write codes in Python(Django)
+- 💞️ I’m looking to collaborate on projects/products 
 - 📫 How to reach me ghostcoder.0001@gmail.com
 
 <!---
